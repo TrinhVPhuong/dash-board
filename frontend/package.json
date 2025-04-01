@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@vueuse/core": "^13.0.0",
-    "daisyui": "^5.0.9",
-    "single-spa": "^6.0.3"
-  }
-}
