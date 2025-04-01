@@ -3,12 +3,12 @@
 ## Các Thành Phần Chính và Tương Tác
 
 - **`src/`**: Chứa mã nguồn chính của ứng dụng.
-  - **`App.vue`**: Thành phần gốc của ứng dụng.
-  - **`main.ts`**: Điểm khởi đầu của ứng dụng.
-  - **`components/`**: Chứa các thành phần giao diện tái sử dụng.
-  - **`views/`**: Chứa các trang chính của ứng dụng.
-  - **`router/`**: Cấu hình điều hướng.
-  - **`stores/`**: Quản lý trạng thái ứng dụng với Pinia.
+- **`App.vue`**: Thành phần gốc của ứng dụng.
+- **`main.ts`**: Điểm khởi đầu của ứng dụng.
+- **`components/`**: Chứa các thành phần giao diện tái sử dụng.
+- **`views/`**: Chứa các trang chính của ứng dụng.
+- **`router/`**: Cấu hình điều hướng.
+- **`stores/`**: Quản lý trạng thái ứng dụng với Pinia.
 
 ## Luồng Dữ Liệu
 
